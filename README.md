@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# PyBer Analysis
 
 ## Overview
 The purpose of this analysis is to understand ride, driver, and fare statistics based on city type. This information can help the CEO determine where to allocate resources such as drivers and what amount to charge by city.
